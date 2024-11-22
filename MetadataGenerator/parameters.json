@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Input Directory",
+    "type": "string",
+    "param": "in-directory",
+    "value": "",
+    "help": "Path to the directory containing the quest CSV file"
+  }
+]
+

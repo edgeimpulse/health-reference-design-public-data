@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Dataset Name",
+    "type": "string",
+    "param": "dataset-name",
+    "value": "combined_dataset.parquet",
+    "help": "Name of the output combined dataset file"
+  }
+]
