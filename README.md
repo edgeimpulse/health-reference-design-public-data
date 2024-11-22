@@ -1,6 +1,6 @@
 # health-reference-design-public-data
 
-PPG-DaLiA Data Processing Pipeline
+PPG-DaLiA Data Processing Pipeline see our [Health Reference Design Documentation](https://docs.edgeimpulse.com/docs/edge-impulse-studio/organizations/health-reference-design) for more information.
 
 This repository is a reference design for an end-to-end machine learning workflow using Edge Impulse to process the PPG-DaLiA dataset. It demonstrates how to:
 
