@@ -2,7 +2,7 @@
 
 PPG-DaLiA Data Processing Pipeline see our [Health Reference Design Documentation](https://docs.edgeimpulse.com/docs/edge-impulse-studio/organizations/health-reference-design) for more information.
 
-This repository is a reference design for an end-to-end machine learning workflow using Edge Impulse to process the PPG-DaLiA dataset. It demonstrates how to:
+This repository is a reference design for an end-to-end machine learning workflow using Edge Impulse to process the PPG-DaLiA dataset, and assumes that the data is available and the transformation blocks have been set up. It demonstrates how to:
 
 - Process raw sensor data (accelerometer and PPG) from multiple subjects.
 - Extract and attach metadata to each subject's data.
