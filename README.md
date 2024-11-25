@@ -8,6 +8,9 @@ This repository is a reference design for an end-to-end machine learning workflo
 - Extract and attach metadata to each subject's data.
 - Combine all processed data into a single dataset suitable for machine learning tasks like heart rate variability (HRV) analysis and activity classification.
 
+![image](https://github.com/user-attachments/assets/2ac87cbb-595b-4e22-98e8-15ca4589e7b8)
+
+
 This reference design includes:
 
 ### Transformation Blocks:
